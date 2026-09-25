@@ -20,6 +20,7 @@ app.add_middleware(
         "http://127.0.0.1:3001",
         "http://127.0.0.1:3002",
         "http://127.0.0.1:3003",
+        "https://meeting-notes-platform-qptunyf7w-aryan-a00f.vercel.app",
     ],
     allow_credentials=True,
     allow_methods=["*"],
