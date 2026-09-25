@@ -1,0 +1,13 @@
+This is a placeholder for audio files.
+
+In a production environment, you would place actual meeting audio files here.
+For this demo, the media player uses a placeholder implementation.
+
+To add real audio:
+1. Place MP3 audio files in this public/ directory
+2. Update the audio source in components/transcript/transcript-player.tsx
+3. Reference the file path in the <audio> element
+
+Example:
+- /sample-meeting-1.mp3
+- /sample-meeting-2.mp3
